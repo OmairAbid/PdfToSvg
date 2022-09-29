@@ -1,0 +1,18 @@
+<Project Sdk="Microsoft.NET.Sdk">
+
+  <PropertyGroup>
+    <TargetFramework>net6.0</TargetFramework>
+    <ImplicitUsings>enable</ImplicitUsings>
+    <Nullable>enable</Nullable>
+  </PropertyGroup>
+
+  <ItemGroup>
+    <PackageReference Include="ABCpdf" Version="12.2.0" />
+    <PackageReference Include="AngleSharp" Version="0.17.1" />
+    <PackageReference Include="Aspose.SVG" Version="22.8.0" />
+    <PackageReference Include="GrapeCity.Documents.Pdf" Version="5.2.0.802" />
+    <PackageReference Include="PdfToSvg.NET" Version="0.7.0" />
+    <PackageReference Include="Spire.PDF" Version="8.9.2" />
+  </ItemGroup>
+
+</Project>
